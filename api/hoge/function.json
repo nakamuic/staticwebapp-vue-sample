@@ -9,7 +9,7 @@ function.json
         "methods": [
           "get"
         ],
-        "route": "hoge"
+        "route": "message"
       },
       {
         "type": "http",
